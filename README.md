@@ -1,4 +1,4 @@
-Just random software engineeer senior android developer and AI Engineer guy
+Just random tools project
 
 <!---
 rizkirakasiwi/rizkirakasiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
